@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#
 - 📊 I’m passionate about:  using data to tell stories and uncover actionable insights.
 - 🔭 I’m currently working on: analyzing real-world datasets using Excel, SQL, Python and PowerBI to solve practical business problems.
 - 👩🏽‍💻 Check my website on Readymag:
