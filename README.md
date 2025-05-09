@@ -1,4 +1,7 @@
-# Hi there 👋 I'm Andrea 
+<div align="center">
+  <h1>Hey there, I'm Andrea 👋🏻 </h1>
+  <p style="font-size: 14px; font-style: italic;"><i>🚀 Make sure to explore my project repositories and see how I turn data into actionable insights! 🚀</i></p>
+</div>
 
 <!--
 **AndreaCazares1412/AndreaCazares1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +17,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#
+- 📊 I’m passionate about:  using data to tell stories and uncover actionable insights.
+- 🔭 I’m currently working on: analyzing real-world datasets using Excel, SQL, Python and PowerBI to solve practical business problems.
+- 👩🏽‍💻 Check my website on Readymag:
+- 📫 How to reach me: [Andrea's LinkedIn](www.linkedin.com/in/andreacazares1412) 
+- ⚒️ Languages and Tools: git, mysql, postgresql, dbeaver, powerBI, tableau, python, pandas
 
-⚡️*Data Analyst with a background in Social Media Management. ✨ Bridging Creative Content & Data Insights ✨*
-
-- 📊 **I’m passionate about:**  using data to tell stories and uncover actionable insights.
-- 🔭 **I’m currently working on:** analyzing real-world datasets using Excel, SQL, Python and PowerBI to solve practical business problems.
-- 👩🏽‍💻 **Check my website on Readymag:**
-- 📫 **How to reach me:** [Andrea's LinkedIn](www.linkedin.com/in/andreacazares1412) 
-- ⚒️ **Languages and Tools:** git, mysql, postgresql, dbeaver, powerBI, tableau, python, pandas
