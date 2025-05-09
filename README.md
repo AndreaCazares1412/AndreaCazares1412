@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Andrea 
+# Hi there 👋 I'm Andrea 
 
 <!--
 **AndreaCazares1412/AndreaCazares1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Data Analyst with a background in Social Media Management. Bridging Creative Content & Data Insights 📊
+✨*Data Analyst with a background in Social Media Management. Bridging Creative Content & Data Insights*✨
 
 - 📊 I’m passionate about:  using data to tell stories and uncover actionable insights.
 - 🔭 I’m currently working on: analyzing real-world datasets using Excel, SQL, Python and PowerBI to solve practical business problems.
-
-- My website:
-
-- 📫 How to reach me:
-www.linkedin.com/in/andreacazares1412
-
-- Languages and Tools:
-git mysql postgresql dbeaver powerBI tableau python pandas
+- 👩🏽‍💻 Check my website on Readymag:
+- 📫 How to reach me: www.linkedin.com/in/andreacazares1412
+- ⚒️ Languages and Tools: git, mysql, postgresql, dbeaver, powerBI, tableau, python, pandas
