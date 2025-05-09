@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey there, I'm Andrea 👋🏻 </h1>
+  <h1> ✨ Hey there, I'm Andrea ✨ </h1>
   <p style="font-size: 14px; font-style: italic;"><i>🚀 Make sure to explore my project repositories and see how I turn data into actionable insights! 🚀</i></p>
 </div>
 
