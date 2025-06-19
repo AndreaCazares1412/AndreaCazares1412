@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📊 I’m passionate about:  using data to tell stories and uncover actionable insights.
-- 🔭 I’m currently working on: analyzing real-world datasets to solve practical business problems.
-- 👩🏽‍💻 Check my website on Readymag: [Andrea's Portfolio](https://readymag.website/u1837209552/AndreasPortfolio/num/25822403/)   
+- 🔭 I’m currently working on: analyzing real-world datasets to solve practical business problems. 
 - 📫 How to reach me: [Andrea's LinkedIn](www.linkedin.com/in/andreacazares1412) 
 - ⚒️ Languages and Tools: git, mysql, postgresql, dbeaver, powerBI, tableau, python, pandas
 
